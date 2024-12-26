@@ -1,0 +1,60 @@
+.Page{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: 10vh;
+  }
+  
+  .header {
+    background-color: #f4f4f4;
+    padding: 1em;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .nav {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 10;
+  }
+  
+  .nav li {
+    margin: 0 1em;
+    height: 20px;
+  }
+  
+  .nav a {
+    text-decoration: none;
+    color: #5ee609;
+  }
+  
+  .nav a:hover {
+    text-decoration: underline;
+  }
+  
+  .content {
+    display: flex;
+    flex: 1;
+    
+  }
+  
+  .contact {
+    background-color: #f0f0f0;
+    width: 20%;
+    padding: 1em;
+    height: 50vh;
+    border-right: 1px solid #ccc;
+  }
+  
+  .main-content {
+    flex: 1;
+    padding: 2em;
+  }
+  
+  .footer {
+    background-color: #f4f4f4;
+    padding: 1em;
+    border-top: 1px solid #ccc;
+  }

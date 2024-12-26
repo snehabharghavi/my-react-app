@@ -1,0 +1,32 @@
+h4{
+    color: rgb(234, 231, 237);
+    background-color: rgb(160, 149, 95);
+    border: 5px;
+    box-shadow: none;
+}
+p{
+    color:brown;
+    background-color: aqua;
+    border: dotted yellow;
+    text-align: center; 
+}
+.use-effect-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .increment-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    /* Add this line to center the button horizontally */
+    display: inline-block;
+    margin: 0 auto;
+  }
+h2{
+    color:chocolate;
+    background-color:rgb(25, 47, 48);
+}

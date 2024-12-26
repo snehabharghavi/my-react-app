@@ -1,0 +1,11 @@
+
+/* Front.css */
+
+.header{
+   color: rgb(211, 15, 15);
+   background-color: rgb(30, 210, 144);
+   font-family: 'Courier New', Courier, monospace;
+   height: 100%; 
+   width: 100%;
+   border: 10px dashed yellowgreen;
+}

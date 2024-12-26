@@ -1,0 +1,27 @@
+
+/* Menu.css */
+.a{
+   color: white;
+   background-color:black;
+   border:  dotted red; 
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.b{
+    color: white;
+    background-color: black;
+    border: dotted red; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+ }
+ .c{
+    color: white;
+    background-color: black;
+    border:   dotted red; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+ }
+ .d{
+    color: white;
+    background-color: black;
+    border:  dotted red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+ }
